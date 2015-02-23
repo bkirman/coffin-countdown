@@ -1,4 +1,3 @@
-# coffin-countdown
 Coffin Countdown
 ================
 
